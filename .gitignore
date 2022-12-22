@@ -1,0 +1,8 @@
+#ignore all logs 
+.logs
+
+#ignore all aux
+.aux
+
+#ignore temporary data
+.DS_Store
